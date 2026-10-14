@@ -22,3 +22,7 @@ Do not upload confidential company code, credentials, internal endpoints, custom
 
 ## Recent update
 The IT Support page now highlights retail POS support, server EOD/SOD and backup checks, LAN connectivity, preventive hardware maintenance, ticketing/incident tracking, and software/hardware troubleshooting. Copy the updated site files into your existing Git repository and run your update script to publish.
+
+
+## Project content update
+The Projects page was aligned with the current LinkedIn project descriptions: WM App - Store Operations Utility, WM Price Verifier, Apparel Inventory & Sales Management System, Event Tabulation System, and Restaurant Point-of-Sale & Billing System.
