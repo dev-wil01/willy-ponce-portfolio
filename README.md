@@ -1,24 +1,20 @@
-# Willy S. Ponce — Portfolio Website
+# Willy Ponce Portfolio Website
 
-Responsive static portfolio for software development and IT support roles.
+A static multi-page portfolio website for GitHub Pages.
 
-## Preview locally
-Extract the ZIP and open `index.html` in your browser. No build tools are required.
+## Pages
+- `index.html` — Home
+- `about.html` — About
+- `skills.html` — Technical skills
+- `projects.html` — Selected projects
+- `it-support.html` — IT support and automation
+- `contact.html` — Contact information
 
-## Files
-- `index.html` — content and page structure
-- `styles.css` — responsive styling
-- `script.js` — mobile navigation
+## Publish/update on GitHub Pages
+1. Extract this ZIP.
+2. Upload the HTML files, `styles.css`, `script.js`, and `README.md` to the root of the existing `willy-ponce-portfolio` repository.
+3. Replace existing files when prompted and commit the changes.
+4. GitHub Pages should publish the update automatically.
 
-## Before publishing
-- Verify your contact details and links.
-- Add approved screenshots and demo links where available.
-- Do not publish company source code, customer or employee data, credentials, internal URLs, or confidential screenshots.
-- Check that project descriptions accurately reflect your work and current project status.
-
-## Publish using GitHub Pages
-1. Create a new public repository on GitHub, e.g. `willy-ponce-portfolio`.
-2. Upload `index.html`, `styles.css`, and `script.js` to the repository root.
-3. Open repository **Settings → Pages**.
-4. Choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-5. Wait for GitHub Pages to publish; the URL will appear in Pages settings.
+## Privacy
+Do not upload confidential company code, credentials, internal endpoints, customer/employee data, or screenshots without authorization. Project descriptions are high-level and should be reviewed for accuracy before publication.
